@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "city": "Paris",
+    "country": "France",
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "description": "Romantic trip to the city of lights",
+    "date": "2026-05-15",
+    "days": 5,
+    "favorite": true,
+    "visited": false
+  },
+  {
+    "id": 2,
+    "city": "Rome",
+    "country": "Italy",
+    "image": "https://images.unsplash.com/photo-1529260830199-42c24126f198",
+    "description": "Discover ancient history and Italian cuisine",
+    "date": "2026-06-20",
+    "days": 7,
+    "favorite": false,
+    "visited": true
+  },
+  {
+    "id": 3,
+    "city": "Barcelona",
+    "country": "Spain",
+    "image": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4",
+    "description": "Sunny beaches, architecture and tapas",
+    "date": "2026-07-10",
+    "days": 6,
+    "favorite": true,
+    "visited": false
+  },
+  {
+    "id": 4,
+    "city": "London",
+    "country": "United Kingdom",
+    "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad",
+    "description": "A classic trip through historic London",
+    "date": "2026-08-05",
+    "days": 4,
+    "favorite": false,
+    "visited": false
+  },
+  {
+    "id": 5,
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017",
+    "description": "Canals, bicycles and beautiful old streets",
+    "date": "2026-08-18",
+    "days": 5,
+    "favorite": false,
+    "visited": true
+  },
+  {
+    "id": 6,
+    "city": "Prague",
+    "country": "Czech Republic",
+    "image": "https://images.unsplash.com/photo-1541849546-216549ae216d",
+    "description": "Fairytale streets and medieval architecture",
+    "date": "2026-09-03",
+    "days": 4,
+    "favorite": true,
+    "visited": false
+  },
+  {
+    "id": 7,
+    "city": "Vienna",
+    "country": "Austria",
+    "image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af",
+    "description": "Palaces, coffee houses and classical music",
+    "date": "2026-09-15",
+    "days": 5,
+    "favorite": false,
+    "visited": false
+  },
+  {
+    "id": 8,
+    "city": "Lisbon",
+    "country": "Portugal",
+    "image": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b",
+    "description": "Colorful streets, ocean views and pastel buildings",
+    "date": "2026-10-02",
+    "days": 6,
+    "favorite": true,
+    "visited": false
+  },
+  {
+    "id": 9,
+    "city": "Athens",
+    "country": "Greece",
+    "image": "https://images.unsplash.com/photo-1603565816030-6b389eeb23cb",
+    "description": "Ancient ruins, Mediterranean food and sunshine",
+    "date": "2026-10-18",
+    "days": 5,
+    "favorite": false,
+    "visited": false
+  },
+  {
+    "id": 10,
+    "city": "Istanbul",
+    "country": "Turkey",
+    "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200",
+    "description": "A fascinating mix of European and Asian cultures",
+    "date": "2026-11-05",
+    "days": 7,
+    "favorite": true,
+    "visited": true
+  },
+  {
+    "id": 11,
+    "city": "New York",
+    "country": "USA",
+    "image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee",
+    "description": "Explore Manhattan, Central Park and Times Square",
+    "date": "2026-11-20",
+    "days": 8,
+    "favorite": false,
+    "visited": false
+  },
+  {
+    "id": 12,
+    "city": "Tokyo",
+    "country": "Japan",
+    "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
+    "description": "Modern technology, traditional culture and amazing food",
+    "date": "2027-03-15",
+    "days": 10,
+    "favorite": true,
+    "visited": false
+  }
+]
