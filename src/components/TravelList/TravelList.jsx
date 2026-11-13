@@ -1,9 +1,11 @@
 import TravelCard from "../TravelCard/TravelCard";
 
+import css from "./TravelList.module.css"
+
 const TravelList = ({ trips }) => {
     return (
         <div>
-           <ul>
+           <ul className={css.list}>
                 {trips.map((trip) => (
                     <TravelCard key={trip.id}
                     {...trip}

@@ -182,7 +182,8 @@
     border-right-color: var(--border);
   }
 } */
-ul {
+
+/* ul {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 24px;
@@ -194,8 +195,6 @@ ul {
 
 li {
   overflow: hidden;
-
-  /* border: 1px solid #ddd; */
   border-radius: 12px;
   background-color: #fff;
 }
@@ -206,4 +205,4 @@ li {
   height: 220px;
 
   object-fit: cover;
-}
+} */
